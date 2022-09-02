@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854280277263",
+    "project_id": "amstpracticog9",
+    "storage_bucket": "amstpracticog9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854280277263:android:afb41f25e44a1eef01027a",
+        "android_client_info": {
+          "package_name": "com.example.examen_final_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854280277263-6evmongnan8sg9pimib220qseiv7uga5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examen_final_flutter",
+            "certificate_hash": "4b96bff64127130e655a95eebacce71f767cd0db"
+          }
+        },
+        {
+          "client_id": "854280277263-5dsbrvn47vno06decdeivvh24p395tpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOYBawqDSj7_hu_4xZ-xQyQwGDepODgek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854280277263-5dsbrvn47vno06decdeivvh24p395tpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
