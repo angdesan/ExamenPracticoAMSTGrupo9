@@ -19,7 +19,7 @@ class _SplashView extends State<SplashView> {
   void initState() {
     super.initState();
     _delaySplash = Timer(const Duration(seconds: 3), () {
-      Navigator.of(context).pushReplacementNamed("/login");
+      Navigator.of(context).pushReplacementNamed("/GoogleAuthenticator");
     });
   }
 
@@ -45,7 +45,7 @@ class _SplashView extends State<SplashView> {
                   0.40,
               height: Util.sizeScreen(context: context).width *
                   0.40,
-              child: Icon(Icons.shopping_cart, color:
+              child: Icon(Icons.verified_user, color:
               AppColors.text_dark,size: 150,),
             ),
             const SizedBox(
